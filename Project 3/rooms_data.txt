@@ -1,0 +1,144 @@
+attic
+Attic
+It's a dusty attic, with stairs leading down.
+doll staircase
+
+beach1
+Beach
+You're on a beautiful beach that continues to the north. The ocean lies to the east. A path leads to the southwest.
+nothing
+
+beach2
+Beach
+You're on a beautiful beach that stretches north and south. The ocean lies to the east. A path leads to the west.
+nothing
+
+beach3
+Beach
+You're on a beautiful beach that stretches north and south. The ocean lies to the east.
+nothing
+
+beach4
+Beach
+Here the beach ends in a tumble of rocks to the north and continues to the south. The ocean lies to the east.
+rocks
+
+clearing
+Clearing
+You're in a small clearing the woods. A trail leads northeast. There is a shed to the south with a keypad on the door.
+keypad
+
+cornfield1
+Cornfield
+You're in a cornfield. Old corn stalks everywhere. It's easy to lose your way.
+nothing
+
+cornfield2
+Cornfield
+You're in a cornfield. Old corn stalks everywhere. It's easy to lose your way.
+nothing
+
+cornfield3
+Cornfield
+You're in a cornfield. Old corn stalks everywhere. It's easy to lose your way.
+scarecrow
+
+cornfield4
+Cornfield
+You're in a cornfield. Old corn stalks everywhere. It's easy to lose your way.
+nothing
+
+cornfield5
+Cornfield
+You're in a cornfield. Old corn stalks everywhere. It's easy to lose your way.
+nothing
+
+cove
+Hidden Cove
+You're in a cove, hidden from prying eyes. There is a rock pile to the south.
+chest rocks
+
+driveway
+Driveway
+A cement driveway leads west into the garage. There is also a path to the southeast.
+nothing
+
+dune
+Sand Dune
+You're on a sand dune. A path leads away to the northeast.
+nothing
+
+foyer
+Foyer
+This room once served as a beautiful entrance to this old home. Passages lead north, south, east, and west.
+nothing
+
+frontlawn
+Front Lawn
+You're standing in front of a quaint but decrepit home that lies to the west. A driveway can be seen to the northwest. A path meanders away to the south through some woods.
+nothing
+
+garage
+Garage
+You're in an empty garage with a driveway to the east. There is a ladder leading up to a loft and a doorway in the south wall.
+ladder wrench
+
+island
+Island
+You're on a tiny island in a pond. A great place to get away from it all.
+unicorn
+
+kitchen
+Kitchen
+Once upon a time fine meals were prepared in this kitchen. Now the cabinets are are ruined and the appliances gone. There is an arched opening on the north wall and a passage southwest.
+spoon
+
+library
+Library
+You're in a small private library, long abandoned. The shelves are broken and empty. There's a small alcove to the south. An opening on the west wall leads outside and there is a passage leading east.
+book clock
+
+livingroom
+Living Room
+Most of the furnishings have been removed from this spacious living room. There are passageways to the north, south, and southwest.
+cabinet painting
+
+loft
+Loft
+This loft was used for storage, but there's not much here now. A ladder leads back down to the garage.
+ladder key
+
+nook
+Reading Nook
+It looks like this little alcove was once a nice place to read a book. The main room lies to the north.
+candlestick
+
+patio
+Patio
+This is a large brick patio. A fine place to relax and enjoy the sunshine. There seems to be something written on one of the bricks. You can enter the house to the east and there's a lawn to the west.
+brick
+
+pond
+Pond
+You're on the edge of a large pond. You can see a small island in middle of the pond.
+nothing
+
+rearlawn
+Rear Lawn
+You're standing behind an old home to the east. Paths lead away to the north and southwest.
+nothing
+
+shed
+Shed
+You're in a small shed, no longer used for whatever it was used for. You can exit to the north.
+photograph
+
+bedroom
+Bedroom
+You're in a bedroom, it looks left untouched. You can see a library to the east and a patio to the west.
+mirror
+
+pantry
+Pantry
+You're in a pantry, there is an odd odor in the air. You can exit into the kitchen through the northeast.
+bread

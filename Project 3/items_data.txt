@@ -1,0 +1,170 @@
+book
+leather-bound book
+3
+0
+chill
+It's title is An Adventurer's Guide, written by John Lewis. He's clearly a brilliant, charismatic, and devestatingly handsome man.
+
+brick
+scratched brick
+10
+0
+chill
+Someone has scratched a formula into the brick: math.ceil(math.sin(45) * 10 ** 4)
+
+cabinet
+curio cabinet
+10
+7
+locked
+It's a tall glass cabinet designed to display treasured keepsakes.
+nothing
+
+candlestick
+brass candlestick
+1
+0
+chill
+It's a fancy candlestick made of brass.
+
+chest
+half-buried chest
+10
+7
+buried
+The chest is mostly buried in the sand.
+doubloon
+
+clock
+grandfather clock
+10
+1
+closed
+The clock is ornately carved, six feet tall, and broken. It's pendulum is missing.
+nothing
+
+doll
+porcelain doll
+1
+0
+chill
+It's a delicate porcelain doll. Nice smile. Not at all creepy.
+
+doubloon
+gold doubloon
+1
+0
+chill
+It's a coin with some old dude pictured on one side and a crest of some kind on the other.
+
+ghost
+ghost
+0
+0
+chill
+The ghost has faded away.
+
+key
+skeleton key
+1
+0
+chill
+It's a large metal key with a skull on the handle. I bet it unlocks something.
+
+keypad
+keypad
+10
+0
+chill
+It's a standard ten-digit numeric keypad on which you can type numbers. It seems to control access to the shed.
+
+ladder
+wooden ladder
+10
+0
+chill
+The ladder looks reasonably sturdy.
+
+necklace
+silver necklace
+1
+0
+unfound
+It's a beautifull necklace made of sparkling silver with an intricate design.
+
+painting
+large painting
+10
+0
+untouched
+The painting depicts a old woman from a bygone era in a stately pose. Dignified.
+
+photograph
+framed photograph
+1
+0
+chill
+The photo is in a simple wooden frame. It shows a young man in an old-fashioned army uniform, perhaps an old beau who went off to war.
+
+ring
+ruby ring
+1
+0
+buried
+It's a beautiful ring set with a large red ruby. Someone's probably upset they lost it.
+
+rocks
+rock pile
+10
+0
+chill
+It's a large pile of rocks - boulders, really - preventing you from easily walking that way.
+
+scarecrow
+scary scarecrow
+10
+0
+chill
+It's a scarecrow. In the middle of a creepy cornfield. It's scary.
+
+spoon
+serving spoon
+1
+0
+chill
+It's a large metal serving spoon, slightly tarnished.
+
+staircase
+staircase
+10
+0
+chill
+It's a set of stairs. They look safe enough.
+
+unicorn
+jade unicorn
+1
+0
+chill
+It's a small green statuette of a unicorn carved from jade.
+
+wrench
+steel wrench
+1
+0
+chill
+It has a crook for turning bolts on one end and a hole for hanging it on a pegboard on the other.
+
+mirror
+large mirror
+10
+0
+unbroken
+It is an old mirror. There is a dashing young fellow staring back at you.
+
+bread
+slice of bread
+1
+0
+chill
+It is a slice of bread with green mold starting to grow.
